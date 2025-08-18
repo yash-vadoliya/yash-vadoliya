@@ -1,12 +1,9 @@
 <h1 align="center">
   Hi 👋, I'm 
-<!--   <a href="https://github.com/yashvadoliya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Yash+Vadoliya;Full+Stack+Developer;Node.js+%26+React.js+Developer" alt="Typing SVG" /> -->
+  <a href="https://github.com/yashvadoliya">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Yash+Vadoliya" alt="Typing SVG" />
   </a>
 </h1>
-
-<h3 align="center">💻 Full-Stack Developer | Node.js & React.js | Backend Enthusiast</h3>
-
 <h3 align="center">💻 Full-Stack Developer | Node.js & React.js | Backend Enthusiast</h3>
 
 <p align="center">
