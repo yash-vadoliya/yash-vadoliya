@@ -61,8 +61,3 @@ Here are some projects I’ve worked on:
 
 ---
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvadoliya&layout=compact&theme=radical" alt="top languages" height="180"/>
-</p>
