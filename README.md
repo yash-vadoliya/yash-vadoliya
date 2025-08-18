@@ -1,13 +1,12 @@
 <h1 align="center">
   Hi 👋, I'm 
-  <a href="https://github.com/yashvadoliya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Yash+Vadoliya" alt="Typing SVG" />
-  </a>
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&pause=1000&color=36BCF7&vCenter=true&width=300&lines=Yash+Vadoliya" alt="Typing Name" />
 </h1>
-  <a href="https://github.com/yashvadoliya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines= Full+Stack+Developer;Node.js+%26+React.js+Developer" alt="Typing SVG" />
-  </a>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Node.js+%26+React.js+Developer;Backend+Enthusiast" alt="Typing Roles" />
+</p>
+
 <h3 align="center">💻 Full-Stack Developer | Node.js & React.js | Backend Enthusiast</h3>
 
 <p align="center">
