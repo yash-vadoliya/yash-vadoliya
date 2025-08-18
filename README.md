@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="margin-top:'20px'">
   Hi 👋, I'm 
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&pause=1000&color=36BCF7&vCenter=true&width=300&lines=Yash+Vadoliya" alt="Typing Name" />
 </h1>
