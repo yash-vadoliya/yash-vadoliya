@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding GIF"/>
+  <!-- <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding GIF"/> -->
   
   🔭 Currently working as **Node.js Backend Developer Intern**  
   🌱 Learning **System Design & Cloud Architecture**  
