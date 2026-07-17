@@ -45,25 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashvadoliya&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvadoliya&layout=compact&langs_count=8&theme=radical" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashvadoliya&theme=react-dark&hide_border=true" />
-</p>
-
 ## 🏆 Featured Projects
 
 <div align="center">
