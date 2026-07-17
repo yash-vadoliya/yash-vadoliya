@@ -47,14 +47,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashvadoliya&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashvadoliya&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashvadoliya&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=yashvadoliya&theme=radical" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvadoliya&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvadoliya&layout=compact&langs_count=8&theme=radical" />
+</p>
 
 ---
 
